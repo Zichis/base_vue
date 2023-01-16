@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to your project!!!</h1>
+    <h1 class="text-red-500">Welcome to your project!!!</h1>
   </div>
 </template>
 
