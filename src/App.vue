@@ -1,7 +1,6 @@
 <template>
   <div>
     <h1 class="text-red-500">Welcome to your project!!!</h1>
-    {{ posts }}
   </div>
 </template>
 
